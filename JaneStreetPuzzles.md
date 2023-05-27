@@ -1,5 +1,7 @@
 # Jane Street Capital Puzzles
 
+Disclaimer: This document does not contain full solution, rather than insight as to how the problem was approached. I suggest reading this in parralel to the official solution or [Gareth Owen's solutions repository](https://github.com/gowen100/Jane-Street-Solutions).
+
 ### May 2023: Game Night! <br>
 https://www.janestreet.com/puzzles/twenty-four-seven-four-in-one-index/
 
