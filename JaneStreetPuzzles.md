@@ -19,6 +19,7 @@ https://www.janestreet.com/puzzles/twenty-four-seven-four-in-one-index/
 
 Answer: 0.114845886 <br>
 Insight: My favourite and, in my opinion, hardest JS problem that I've done so far (supported by low number of solvers). Optimal strategy was my first intuition (run until threshold and then jump). Solution to actually get the probability involved writing an equation for probability of winning given X's and Y's thresholds P(x,y). Then, using Mathematica, solved using high precision settings and solving for P(x,y) > P(x, y+epsilon) & P(x,y) > P(x, y-epsilon). In other words, find the threshhold x where X wins more than Y if y is just over or under x. 
+
 Edit: Not sure how JS arrived at the equation in their solution, would have loved a full solution.
 
 ### February 2023: Twenty Four Seven (Four-in-One)<br>
